@@ -45,11 +45,11 @@ body {
   fill: var(--color-white);
 }
 
-.indicator.indicator--locked .locked-svg{
+.indicator .locked-svg{
   transform: translate(-50%, -50%);
 }
 
-.indicator.indicator--locked .unlocked-svg{
+.indicator .unlocked-svg{
   transform: translate(-50%, 50%);
 }
 
