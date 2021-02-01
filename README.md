@@ -5,7 +5,7 @@
 - Write your profile page (see details under [Profile Page](#profile-page))
 - Author your code (see details under [Code Challenge](#code-challenge))
 - Submit a pull request to your fork's `main` branch with your changes.
-- tag alex.strachan@lob.com and sasha@lob.com as reviewers.
+- tag [Alex Strachan](https://github.com/metalsheep/), [Sasha Ashpis](https://github.com/sasha-ashpis), [Roman Kofman](https://github.com/rkofman-lob), and [Nina Hwang](https://github.com/nihwang) as reviewers.
 
 ## Profile Page
 Make a folder for yourself with your name inside `/src/interns/`.
