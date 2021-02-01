@@ -1,7 +1,7 @@
 # Intern Interviews
 ## Directions
-- Please fork this repository into a private repository on your own github account.
-- On the fork please add sasha@lob.com and alex.strachan@lob.com to have write permissions.
+- Please duplicate this respository as a private repo in your own GitHub account.
+- On your version, please add [Alex Strachan](https://github.com/metalsheep/), [Sasha Ashpis](https://github.com/sasha-ashpis), [Roman Kofman](https://github.com/rkofman-lob), and [Nina Hwang](https://github.com/nihwang) to have write permissions.
 - Write your profile page (see details under [Profile Page](#profile-page))
 - Author your code (see details under [Code Challenge](#code-challenge))
 - Submit a pull request to your fork's `main` branch with your changes.
