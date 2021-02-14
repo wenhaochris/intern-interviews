@@ -16,6 +16,18 @@ function changeDialValue (index, incrementBy) {
   // for example, if the user clicked the "down" arrow for the last wheel
   // this will be called with arguments (3, -1).
 
+  lockState.wheels[index] += incrementBy
+  for (let i = 0; i < lockState.wheels.length; i++) {
+    if (SECRET_COMBO[i] !== lockState.wheels[i]) {
+      break
+    }
+    if (i === 3) {
+      lockState.locked = false
+    }
+  }
+  if (!lockState.locked) {
+    redirect('Xinze-Zhang')
+  }
   // to change the state of the lock, simply make a call like
   // lockState.locked = false
   // or lockState.wheels[1] = 2
